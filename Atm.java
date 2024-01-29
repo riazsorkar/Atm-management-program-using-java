@@ -11,7 +11,7 @@
 import java.text.NumberFormat; // Helps with formatting doubles as currency
 import java.util.Scanner; // Will be used to get input from the user
 
-public class ATM {
+public class Atm {
 	
 	public static void main(String[] args) {
 	
